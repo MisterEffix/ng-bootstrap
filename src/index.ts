@@ -16,7 +16,7 @@ import {NgbTabsetModule, NgbTabChangeEvent} from './tabset/tabset.module';
 import {NgbTimepickerModule} from './timepicker/timepicker.module';
 import {NgbTooltipModule} from './tooltip/tooltip.module';
 import {NgbTypeaheadModule, NgbTypeaheadSelectItemEvent} from './typeahead/typeahead.module';
-/* test */
+/* test 2 */
 export {
   NgbAccordionModule,
   NgbPanelChangeEvent,
